@@ -1,0 +1,1 @@
+# php-Synchronizer-and-Double-Submit-Cookies-Pattern
