@@ -21,26 +21,3 @@
   <h1>Synchronizer Token Pattern</h1>
   <p>user name - sajeeva, password - 123</p> 
 </div>
-
-<div class="container">
-  <div class="row" style="align-items: center;">
-    <form action="process.php" method="post">
-        <div class="form-group">
-            <label for="username">Username:</label>
-            <input type="username" class="form-control" id="username" name="username" required value="">
-        </div>
-        <div class="form-group">
-            <label for="password">Password:</label>
-            <input type="password" class="form-control" id="password" name="password" required value="">
-        </div>
-
-        <button type="submit" class="btn btn-primary">Login</button>
-    </form>
-</div>
-
-<div class="jumbotron text-center" style="margin-bottom:0">
-  <p>SSD</p>
-</div>
-
-</body>
-</html>
